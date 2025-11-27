@@ -1,1 +1,1 @@
-worker: python dtek_checker.py
+worker: bash start.sh
